@@ -14,8 +14,8 @@
         "TypeOf": "Pedestrian Counter - Structure",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "datalast": "2020-08-04",
-        "datafirst": "2008-11-13"
+        "datelast": "2020-08-04",
+        "datefirst": "2008-11-13"
       },
       "geometry": {
         "type": "Point",
@@ -35,8 +35,8 @@
         "TypeOf": "Pedestrian Counter - Beam",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "datalast": "2020-07-21",
-        "datafirst": "2009-07-07"
+        "datelast": "2020-07-21",
+        "datefirst": "2009-07-07"
       },
       "geometry": {
         "type": "Point",
@@ -56,8 +56,8 @@
         "TypeOf": "Door",
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
-        "datalast": "2020-08-12",
-        "datafirst": "2009-05-25"
+        "datelast": "2020-08-12",
+        "datefirst": "2009-05-25"
       },
       "geometry": {
         "type": "Point",
@@ -77,8 +77,8 @@
         "TypeOf": "Pedestrian Counter - Beam",
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
-        "datalast": "2020-08-02",
-        "datafirst": "2009-12-07"
+        "datelast": "2020-08-02",
+        "datefirst": "2009-12-07"
       },
       "geometry": {
         "type": "Point",
@@ -98,8 +98,8 @@
         "TypeOf": "Pedestrian Counter - Beam",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "datalast": "2020-07-30",
-        "datafirst": "2009-08-03"
+        "datelast": "2020-07-30",
+        "datefirst": "2009-08-03"
       },
       "geometry": {
         "type": "Point",
@@ -119,8 +119,8 @@
         "TypeOf": "Pedestrian Counter - Beam",
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
-        "datalast": "2020-07-03",
-        "datafirst": "2009-11-06"
+        "datelast": "2020-07-03",
+        "datefirst": "2009-11-06"
       },
       "geometry": {
         "type": "Point",
