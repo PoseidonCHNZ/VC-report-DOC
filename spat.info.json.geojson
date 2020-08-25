@@ -1,0 +1,131 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Equipment": "100081603",
+        "Region": "SSI",
+        "Destination": "Wanaka/Lake Hawea activities",
+        "DMFCategory": "Local Treasure",
+        "StartGridRefEN": "1294402-5043726",
+        "TypeofInstall": "Long term",
+        "InstallLocation": "Mt Aspiring Visitor Centre",
+        "TypeOf": "Pedestrian Counter - Structure",
+        "CounterNetwork": "National",
+        "CounterType": "Counter Electronic V",
+        "date.last": "2020-03-02",
+        "date.first": "2008-11-13"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [169.143068414543,-44.6946801267678]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Equipment": "100081701",
+        "Region": "ESI",
+        "Destination": "Aoraki/Mt Cook Village walks",
+        "DMFCategory": "Gateway",
+        "StartGridRefEN": "1366073-5153647",
+        "TypeofInstall": "Long term",
+        "InstallLocation": "Aoraki Mt Cook Visitor Center",
+        "TypeOf": "Pedestrian Counter - Beam",
+        "CounterNetwork": "National",
+        "CounterType": "Counter Electronic V",
+        "date.last": "2020-03-01",
+        "date.first": "2009-07-07"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [170.095299349302,-43.7333023199585]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Equipment": "100082712",
+        "Region": "NSI",
+        "Destination": "Lake Rotoiti",
+        "DMFCategory": "Gateway",
+        "StartGridRefEN": "1587024-5371885",
+        "TypeofInstall": "Long term",
+        "InstallLocation": "Nelson Lakes Visitor Center",
+        "TypeOf": "Door",
+        "CounterNetwork": "Regional",
+        "CounterType": "Counter Electronic V",
+        "date.last": "2019-12-23",
+        "date.first": "2009-05-25"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [172.843794884092,-41.8047950198498]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Equipment": "100083977",
+        "Region": "HWT",
+        "Destination": "Kauaeranga Valley Visitor Centre",
+        "DMFCategory": "Visitor Centre",
+        "StartGridRefEN": "1833661-5888418",
+        "TypeofInstall": "Long term",
+        "InstallLocation": "Kauaeranga Vistor Center",
+        "TypeOf": "Pedestrian Counter - Beam",
+        "CounterNetwork": "Regional",
+        "CounterType": "Counter Electronic V",
+        "date.last": "2020-03-01",
+        "date.first": "2009-12-07"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [175.630046523755,-37.1214393734239]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Equipment": "100084329",
+        "Region": "SSI",
+        "Destination": "Te Anau / Manapouri roads and walk",
+        "DMFCategory": "Local Treasure",
+        "StartGridRefEN": "1186883-4956389",
+        "TypeofInstall": "Long term",
+        "InstallLocation": "Te Anau Visitor Centre",
+        "TypeOf": "Pedestrian Counter - Beam",
+        "CounterNetwork": "National",
+        "CounterType": "Counter Electronic V",
+        "date.last": "2020-02-19",
+        "date.first": "2009-08-03"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [167.719234582536,-45.4237987859451]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Equipment": "100085112",
+        "Region": "SSI",
+        "Destination": "Queenstown activities",
+        "DMFCategory": "Local Treasure",
+        "StartGridRefEN": "1258200-5004300",
+        "TypeofInstall": "Long term",
+        "InstallLocation": "Queenstown Visitor Centre",
+        "TypeOf": "Pedestrian Counter - Beam",
+        "CounterNetwork": "National",
+        "CounterType": "Counter Electronic V",
+        "date.last": "2020-02-03",
+        "date.first": "2009-11-06"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [168.66084138314,-45.0322607230017]
+      }
+    }
+  ]
+}
