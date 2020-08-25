@@ -15,7 +15,8 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "datelast": "2020-08-04",
-        "datefirst": "2008-11-13"
+        "datefirst": "2008-11-13",
+        "DestinationWeb": "WanakaLakeHaweaactivities"
       },
       "geometry": {
         "type": "Point",
@@ -36,7 +37,8 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "datelast": "2020-07-21",
-        "datefirst": "2009-07-07"
+        "datefirst": "2009-07-07",
+        "DestinationWeb": "AorakiMtCookVillagewalks"
       },
       "geometry": {
         "type": "Point",
@@ -57,7 +59,8 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "datelast": "2020-08-12",
-        "datefirst": "2009-05-25"
+        "datefirst": "2009-05-25",
+        "DestinationWeb": "LakeRotoiti"
       },
       "geometry": {
         "type": "Point",
@@ -78,7 +81,8 @@
         "CounterNetwork": "Regional",
         "CounterType": "Counter Electronic V",
         "datelast": "2020-08-02",
-        "datefirst": "2009-12-07"
+        "datefirst": "2009-12-07",
+        "DestinationWeb": "KauaerangaValleyVisitorCentre"
       },
       "geometry": {
         "type": "Point",
@@ -99,7 +103,8 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "datelast": "2020-07-30",
-        "datefirst": "2009-08-03"
+        "datefirst": "2009-08-03",
+        "DestinationWeb": "TeAnauManapouriroadsandwalk"
       },
       "geometry": {
         "type": "Point",
@@ -120,7 +125,8 @@
         "CounterNetwork": "National",
         "CounterType": "Counter Electronic V",
         "datelast": "2020-07-03",
-        "datefirst": "2009-11-06"
+        "datefirst": "2009-11-06",
+        "DestinationWeb": "Queenstownactivities"
       },
       "geometry": {
         "type": "Point",
